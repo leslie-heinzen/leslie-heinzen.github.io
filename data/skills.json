@@ -1,0 +1,45 @@
+[
+  {
+    "grouping": "Frontend",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "Vue.js",
+      "Knockout.js",
+      "HTML",
+      "CSS",
+      "SCSS"
+    ]
+  },
+  {
+    "grouping": "Backend",
+    "skills": [
+      "C#",
+      ".NET",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "NoSQL",
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Swagger / OpenAPI"
+    ]
+  },
+  {
+    "grouping": "Cloud Tech",
+    "skills": [
+      "AWS Lambda Functions",
+      "SQS/SNS",
+      "Azure Functions",
+      "Azure Containers",
+      "EventGrid",
+      "Storage",
+      "GitHub Actions / Workflows"
+    ]
+  }
+]

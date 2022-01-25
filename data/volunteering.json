@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Mentor",
+        "company":"Code Louisville",
+        "summary": "Provide instruction and mentoring to student cohorts for front-end web development and React courses. Give presentations and lectures on various CS and Software Development topics. Provide one-on-one guidance and student project evaluation.",
+        "range":"August 2017 - Present"
+    },
+    {
+        "role":"Mentor",
+        "company":"Lambda School",
+        "summary": "Provide professional guidance and interview preparation to aspiring software engineers.",
+        "range":"August 2017 - Present"
+    }
+]

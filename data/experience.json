@@ -1,0 +1,49 @@
+[
+    {
+        "role":"Software Engineer",
+        "company":"Switcher Studio",
+        "summary": "An iOS-focused multicamera livestreaming platform.",
+        "highlights":[
+            "Built a greenfield WebRTC videoconferencing web application.",
+            "Re-wrote the web dashboard for customer management of billing, media files, and app settings.",
+            "Managed third-party integrations with major social media platforms for livestreaming, post creation, and realtime comments.",
+            "Overhauled Stripe customer billing integration, including support for Google Pay and Apple Pay.",
+            "Provided professional and technical guidance to junior developers."
+        ],
+        "range":"April 2020 - Present"
+    },
+    {
+        "company": "QSR Automations",
+        "role": "Software Engineer",
+        "summary": "A restaurant technology company creating kitchen display systems and table management solutions.",
+        "highlights": [
+            "Developed and maintained core microservices in support of other product teams, including authentication and product licensing.",
+            "Worked on external API integrations with large partner companies.",
+            "Maintained internal administrative and customer-facing enterprise web applications, and UI libraries used by other teams.",
+            "Researched and introduced new technologies to the company tech stack, including Vue.js and GraphQL."
+        ],
+        "range":"June 2018 - April 2020"
+    },
+    {
+        "company": "QSR Automations",
+        "role": "Junior Software Engineer",
+        "summary": "",
+        "highlights": [
+            "Maintained and implemented new features in internal and customer-facing web applications.",
+            "Implemented a redesign of a customer-facing enterprise web application.",
+            "Maintained and implemented performance improvements in a monolithic enterprise service."
+        ],
+        "range": "January 2017 - June 2018"
+    },
+    {
+        "company": "Freelance",
+        "role": "Web Developer",
+        "url": "https://www.switcherstudio.com",
+        "highlights": [
+            "Create, build and host personal websites for clients.",
+            "Independent development contract work for small and medium-sized businesses.",
+            "Integrate projects with third-party APIs, including payment systems, social media, and video streaming."
+        ],
+        "range": "August 2009 - Present"
+    }
+]
