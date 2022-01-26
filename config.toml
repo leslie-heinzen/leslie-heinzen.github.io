@@ -21,6 +21,8 @@ showProjects = true
 showQr = true
 showSkills = true
 showVolunteering = true
+showResume = true
+resumeUrl = "https://resume.heinzen.dev"
 
 [outputs]
 home = ["HTML", "JSON"]
