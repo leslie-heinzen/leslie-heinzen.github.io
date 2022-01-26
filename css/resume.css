@@ -111,6 +111,14 @@ h2 {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+
+  #sideNav .resume-special {
+    color:rgba(255, 168, 107, 0.75)
+  }
+
+  #sideNav .resume-special:hover {
+    color:rgba(255, 168, 107, 1)
+  }
 }
 
 section.resume-section {
